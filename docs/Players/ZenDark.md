@@ -23,12 +23,13 @@ tags:
 * Founded Colonizadores (First Clan He Founded)
 * Founded Triology
 
-## Clans 
+## Groups
 * Eclipse 
 * TSR
 
 
 ## Founded Groups
+* Colonizadores
 * Triology
 
 ## Build Pictures
@@ -42,8 +43,4 @@ tags:
 
 ## Skin
 ![Skin](https://s.namemc.com/3d/skin/body.png?id=f9a71ba256f0b487&model=classic&width=100&height=200)
-
-## Groups
-* Colonizadores
-* Triology
 
